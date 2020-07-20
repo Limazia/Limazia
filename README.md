@@ -3,4 +3,4 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-518677?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/limadeacacio)
 [![Twitch](https://img.shields.io/badge/-Twitch-d2d34f?style=flat-square&logo=Twitch&logoColor=white)](https://www.twitch.tv/limazia)
 [![YouTube](https://img.shields.io/badge/-YouTube-f62f5b?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC-5N5yRu4-YMCF-fYm5X6Vg)
-[![PicPay](https://img.shields.io/badge/-PicPay-9b2a2f?style=flat-square&logo=Unknow&logoColor=white)](https://app.picpay.com/user/limazia)
+[![PicPay](https://img.shields.io/badge/-PicPay-9b2a2f?style=flat-square&logo=Unknow&logoColor=white)](https://app.picpay.com/user/limazia "Sim"){:target="_blank"}
