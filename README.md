@@ -1,11 +1,6 @@
-[![](https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/acaciolima12/)](https://www.instagram.com/acaciolima12/)
-[![](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Twitter&logoColor=white&link=https://twitter.com/limadeacacio)](https://twitter.com/limadeacacio)
-[![](https://img.shields.io/badge/-Twitch-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Twitch&logoColor=white&link=https://www.twitch.tv/limazia)](https://www.twitch.tv/limazia)
-[![](https://img.shields.io/badge/-picpay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=picpay&logoColor=white&link=https://app.picpay.com/user/limazia)](https://app.picpay.com/user/limazia)
-
 [![Facebook](https://buildstats.info/nuget/TestaCache)](http://www.nuget.org/packages/TestaCache)
 [![Instagram](https://buildstats.info/nuget/TestaCache)](https://www.instagram.com/acaciolima12/)
 [![Twitter](https://buildstats.info/nuget/TestaCache)](https://twitter.com/limadeacacio)
 [![Twitch](https://buildstats.info/nuget/TestaCache)](https://www.twitch.tv/limazia)
 [![YouTube](https://buildstats.info/nuget/TestaCache)](https://www.youtube.com/channel/UC-5N5yRu4-YMCF-fYm5X6Vg)
-[![PicPay](https://buildstats.info/nuget/TestaCache)](https://app.picpay.com/user/limazia)
+[![PicPay](https://logodownload.org/wp-content/uploads/2018/05/picpay-logo.png)](https://app.picpay.com/user/limazia)
