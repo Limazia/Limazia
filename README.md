@@ -4,8 +4,8 @@
 [![](https://img.shields.io/badge/-picpay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=picpay&logoColor=white&link=https://app.picpay.com/user/limazia)](https://app.picpay.com/user/limazia)
 
 [![Facebook](https://buildstats.info/nuget/TestaCache)](http://www.nuget.org/packages/TestaCache)
-[![Instagram](https://buildstats.info/nuget/TestaCache)](http://www.nuget.org/packages/TestaCache)
-[![Twitter](https://buildstats.info/nuget/TestaCache)](http://www.nuget.org/packages/TestaCache)
-[![Twitch](https://buildstats.info/nuget/TestaCache)](http://www.nuget.org/packages/TestaCache)
-[![YouTube](https://buildstats.info/nuget/TestaCache)](http://www.nuget.org/packages/TestaCache)
-[![PicPay](https://buildstats.info/nuget/TestaCache)](http://www.nuget.org/packages/TestaCache)
+[![Instagram](https://buildstats.info/nuget/TestaCache)](https://www.instagram.com/acaciolima12/)
+[![Twitter](https://buildstats.info/nuget/TestaCache)](https://twitter.com/limadeacacio)
+[![Twitch](https://buildstats.info/nuget/TestaCache)](https://www.twitch.tv/limazia)
+[![YouTube](https://buildstats.info/nuget/TestaCache)](https://www.youtube.com/channel/UC-5N5yRu4-YMCF-fYm5X6Vg)
+[![PicPay](https://buildstats.info/nuget/TestaCache)](https://app.picpay.com/user/limazia)
