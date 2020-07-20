@@ -1,4 +1,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-instagram-c14438?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/acaciolima12/)](https://www.instagram.com/acaciolima12/)
-[![Twitter Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/caioagiani/)](https://t.me/caioagiani/)
-[![Twitch Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/caioagiani/)](https://t.me/caioagiani/)
-[![PicPay Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/caioagiani/)](https://app.picpay.com/user/limazia)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/limadeacacio)](https://twitter.com/limadeacacio)
+[![Twitch Badge](https://img.shields.io/badge/-twitch-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitch&logoColor=white&link=https://www.twitch.tv/limazia)](https://www.twitch.tv/limazia)
+[![PicPay Badge](https://img.shields.io/badge/-picpay-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=picpay&logoColor=white&link=https://app.picpay.com/user/limazia)](https://app.picpay.com/user/limazia)
