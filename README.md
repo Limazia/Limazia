@@ -9,6 +9,6 @@
 ## Sobre
 
 * **Nome**: Acacio De Lima  
-* **Idade**: 19
+* **Idade**: 19 anos
 * **Cidade**: Amparo, São Paulo, Brazil
-* **Stack**: Node, React, React Native, PHP - Bootstrap - SQL
+* **Stack**: Node, React, React Native, PHP, Bootstrap, SQL
