@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"></a>
 
   <a href="https://www.twitch.tv/limazia" alt="Twitch">
-  <img src="  https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&labelColor=DF0174&logo=twitch&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Twitch-6441a5?style=flat-square&labelColor=DF0174&logo=twitch&logoColor=white"/></a>
 
   <a href="mailto:limadeacacio@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&"/></a>
