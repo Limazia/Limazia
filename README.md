@@ -10,7 +10,7 @@
   <strong>Cidade</strong>: Amparo, São Paulo
 </p>
 <p align="left">
-  <strong>Stack</strong>: NodeJS, ReactJS, React Native, PHP, C#, Bootstrap, SQL
+  <strong>Stacks</strong>: NodeJS, ReactJS, React Native, PHP, C#, Bootstrap, SQL
 </p>
 
 <p align="left">
