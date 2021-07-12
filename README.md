@@ -7,7 +7,7 @@
   <strong>Idade</strong>: 19 anos
 </p>
 <p align="left">
-  <strong>Cidade</strong>: Amparo, SP, Brazil
+  <strong>Cidade</strong>: Amparo, São Paulo
 </p>
 <p align="left">
   <strong>Stack</strong>: NodeJS, ReactJS, React Native, PHP, C#, Bootstrap, SQL
